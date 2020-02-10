@@ -1,0 +1,202 @@
+follow_up_version	bcr_followup_barcode	bcr_followup_uuid	followup_case_report_form_submission_reason	lost_follow_up	radiation_therapy	postoperative_rx_tx	primary_therapy_outcome_success	followup_treatment_success	vital_status	days_to_last_followup	days_to_death	person_neoplasm_cancer_status	new_tumor_events	day_of_form_completion	month_of_form_completion	year_of_form_completion	bcr_patient_barcode
+follow_up_v1.0	TCGA-F5-6863-F35411	833EDE3F-7468-4A8B-9A54-4618AAA31C3C	Scheduled Follow-up Submission	NO	NO	NO		Progressive Disease	Dead	NA	361	WITH TUMOR	YES191NONOYES	26	9	2012	TCGA-F5-6863
+follow_up_v1.0	TCGA-AF-3913-F4474	b71024aa-c00c-4044-b065-106e1a7e4755			NO	YES			Dead	NA	316	WITH TUMOR	NO	7	12	2010	TCGA-AF-3913
+follow_up_v1.0	TCGA-EI-6509-F28628	5912c28c-8a8c-470b-9957-574b055f17d6	Scheduled Follow-up Submission		NO	YES			Alive	517	NA	WITH TUMOR	YES90MetastaticYES127LiverR0NONO	27	2	2012	TCGA-EI-6509
+follow_up_v1.0	TCGA-EI-7004-F29857	24449210-a8d9-453a-a9e6-4b9a490f414f	Scheduled Follow-up Submission		NO	YES			Alive	257	NA	TUMOR FREE	NO	30	3	2012	TCGA-EI-7004
+follow_up_v1.0	TCGA-AG-4021-F38318	3B59F395-585D-48A1-9E25-96B50C5B8380	Scheduled Follow-up Submission	NO	NO	NO		Progressive Disease	Dead	NA	121	WITH TUMOR	YES0NO	12	12	2012	TCGA-AG-4021
+follow_up_v1.0	TCGA-DC-6160-F14254	1d0ea0de-0ee7-4ce1-985a-8ad6279a8170	Scheduled Follow-up Submission		NO	NO			Alive	608	NA	TUMOR FREE	NO	26	7	2011	TCGA-DC-6160
+follow_up_v1.0	TCGA-DC-6160-F21436	5acec62e-e1c9-4f91-9be0-ac514b405632	Scheduled Follow-up Submission		NO	NO			Alive	914	NA	TUMOR FREE	NO	13	2	2012	TCGA-DC-6160
+follow_up_v1.0	TCGA-DC-6160-F44764	5E71EE91-8CD4-40F6-BE71-22B8F49322BA	Scheduled Follow-up Submission	NO	NO	NO			Alive	1339	NA	TUMOR FREE	NO	26	6	2013	TCGA-DC-6160
+follow_up_v1.0	TCGA-AG-3999-F38308	2288B663-B051-497A-BDE8-6E66274E268B	Scheduled Follow-up Submission	NO	NO	YES	Progressive Disease	Progressive Disease	Alive	853	NA	TUMOR FREE	YES791NO	12	12	2012	TCGA-AG-3999
+follow_up_v1.0	TCGA-AG-A02G-F38515	76E8C5E1-6AC3-4633-91B8-5DE5EA85A1A2	Scheduled Follow-up Submission	NO	NO	YES	Partial Remission/Response	Partial Remission/Response	Dead	NA	1185	WITH TUMOR	YES578NO	16	12	2012	TCGA-AG-A02G
+follow_up_v1.0	TCGA-AG-A002-F38304	E0E9D11D-F3C1-41AF-A770-76308215647B	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	638	NA	TUMOR FREE	NO	12	12	2012	TCGA-AG-A002
+follow_up_v1.0	TCGA-CL-5917-F39667	7E32D4AF-107F-4EFE-AB08-7245987D9E05	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	2376	NA	TUMOR FREE	NO	29	1	2013	TCGA-CL-5917
+follow_up_v1.0	TCGA-AH-6547-F42779	1B86C4DB-B760-410E-8DE8-AD7E62873CC9	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Dead	NA	76	TUMOR FREE	NO	30	4	2013	TCGA-AH-6547
+follow_up_v1.0	TCGA-DY-A0XA-F17214	3CD987E9-DD78-41B5-950C-F0AA56C3F6D2	Scheduled Follow-up Submission						Alive	3846	NA		NO	25	10	2011	TCGA-DY-A0XA
+follow_up_v1.0	TCGA-AG-3887-F38015	E26D0933-7503-4204-A9BC-D2C98C23E183	Scheduled Follow-up Submission	NO	YES	YES		Progressive Disease	Alive	1124	NA	WITH TUMOR	YES1064NO	8	12	2012	TCGA-AG-3887
+follow_up_v1.0	TCGA-G5-6233-F21970	5c011f74-6014-40d4-a124-169001c5d838	Scheduled Follow-up Submission		NO	NO			Dead	NA	556	WITH TUMOR	YES92NONOYES	3	2	2012	TCGA-G5-6233
+follow_up_v1.0	TCGA-DC-6156-F14256	8034c36c-4ea9-4b09-92aa-16a065c07755	Scheduled Follow-up Submission		NO	YES			Alive	212	NA	WITH TUMOR	NO	26	7	2011	TCGA-DC-6156
+follow_up_v1.0	TCGA-DC-6156-F21439	88be6466-995e-49fe-ad62-19e57d048337	Scheduled Follow-up Submission		NO	YES			Alive	457	NA	WITH TUMOR	YES30NONOYES	13	2	2012	TCGA-DC-6156
+follow_up_v1.0	TCGA-DC-6156-F44747	5A7F2351-C51B-4883-BF17-B89A17225F3F	Scheduled Follow-up Submission	NO	NO	YES		Progressive Disease	Alive	943	NA	WITH TUMOR	YES30NONONO	26	6	2013	TCGA-DC-6156
+follow_up_v1.0	TCGA-AG-3882-F38013	6403B608-FB0D-4B72-A758-FD8225E97E8E	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	608	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3882
+follow_up_v1.0	TCGA-F5-6464-F29829	3E1AF942-0943-4749-A350-BDEB23F68EAE	Scheduled Follow-up Submission		NO	NO			Dead	NA	303		NO	29	3	2012	TCGA-F5-6464
+follow_up_v1.0	TCGA-AG-3731-F38010	C1F2C360-D785-4FC6-B913-948FEB5BD0C8	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	1126	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3731
+follow_up_v1.0	TCGA-EI-6884-F29854	53bb0172-842b-4f3c-85b4-12fa8993d34c	Scheduled Follow-up Submission		NO	YES			Alive	328	NA	TUMOR FREE	NO	30	3	2012	TCGA-EI-6884
+follow_up_v1.0	TCGA-AG-3728-F38295	577CD483-0C80-4A1F-BAB7-67274F2CB012	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response		Alive	912	NA			12	12	2012	TCGA-AG-3728
+follow_up_v1.0	TCGA-AG-4001-F38309	8E956586-D2C3-4499-80E4-62A975087484	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	1096	NA	TUMOR FREE	NO	12	12	2012	TCGA-AG-4001
+follow_up_v1.0	TCGA-AG-3584-F37960	7D8D99F8-7D40-4C9F-A65B-4F1E027C1B12	Scheduled Follow-up Submission	NO	NO	YES	Progressive Disease	Progressive Disease	Dead	NA	730	WITH TUMOR	NO	6	12	2012	TCGA-AG-3584
+follow_up_v1.0	TCGA-AG-3609-F38002	4079154D-89C9-43B5-8A09-C640D11057AB	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	608	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3609
+follow_up_v1.0	TCGA-F5-6813-F36421	6C771380-606F-4064-8988-2086AF4558F7	Scheduled Follow-up Submission	NO	NO	NO			Alive	252	NA	WITH TUMOR	YES65NONONO	30	10	2012	TCGA-F5-6813
+follow_up_v1.0	TCGA-F5-6813-F41121	27764851-F1F1-4249-90EA-60AECCB1FE9E	Scheduled Follow-up Submission	NO	NO	NO			Dead	NA	598	WITH TUMOR	YES65NOLiverNONO	12	3	2013	TCGA-F5-6813
+follow_up_v1.0	TCGA-AG-4009-F38316	5C05C044-9629-4B5D-8E07-FFEB3F38E2C7	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	426	NA	TUMOR FREE	NO	12	12	2012	TCGA-AG-4009
+follow_up_v1.0	TCGA-DC-6681-F15645	7b430910-c285-49df-a62f-c051525a7edb	Scheduled Follow-up Submission		NO	YES			Alive	181	NA	TUMOR FREE	NO	NA	8	2011	TCGA-DC-6681
+follow_up_v1.0	TCGA-DC-6681-F30874	3708e8da-af41-4b95-a021-6f4905c95963	Scheduled Follow-up Submission		NO	YES			Alive	394	NA	TUMOR FREE	NO	18	4	2012	TCGA-DC-6681
+follow_up_v1.0	TCGA-DC-6681-F44768	13C09BEB-2E53-4E36-BE53-633C6FBD9291	Scheduled Follow-up Submission	NO	NO	YES			Alive	790	NA	TUMOR FREE	NO	26	6	2013	TCGA-DC-6681
+follow_up_v1.0	TCGA-EI-6506-F28939	7f26f1a0-f9c3-4fbf-813d-e7667f4d9233	Scheduled Follow-up Submission		NO	NO			Alive	625	NA	TUMOR FREE	NO	2	3	2012	TCGA-EI-6506
+follow_up_v1.0	TCGA-EI-6883-F29851	121ec34e-c483-471e-9971-3c0f8c1c5642	Scheduled Follow-up Submission		NO	YES			Alive	350	NA	TUMOR FREE	NO	30	3	2012	TCGA-EI-6883
+follow_up_v1.0	TCGA-AG-3578-F37953	68DEE803-A0C8-48AE-A74A-C4AFE038FF25	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	974	NA	TUMOR FREE	NO	6	12	2012	TCGA-AG-3578
+follow_up_v1.0	TCGA-AF-A56L-F51137	68BC9047-2C54-41C8-84B1-75CAD2DD4DA8	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	2007	NA	TUMOR FREE	NO	8	11	2013	TCGA-AF-A56L
+follow_up_v1.0	TCGA-DC-4749-F12834	7c222c08-d934-40c0-ad3a-8b7b2ac286dc			NO	NO			Alive	335	NA	TUMOR FREE	NO	9	6	2011	TCGA-DC-4749
+follow_up_v1.0	TCGA-DC-4749-F33821	807A6624-CDFD-46FE-AC61-39E0E91C7FF1	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	762	NA	TUMOR FREE	NO	19	7	2012	TCGA-DC-4749
+follow_up_v1.0	TCGA-AG-3732-F38011	7FD58A13-0001-4312-9E34-59AFD13434C0	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	1003	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3732
+follow_up_v1.0	TCGA-AF-3911-F13443	c4b40609-531d-4459-a0f4-079e608d5454	Scheduled Follow-up Submission		YES	YES			Alive	537	NA	TUMOR FREE	NO	28	6	2011	TCGA-AF-3911
+follow_up_v1.0	TCGA-AF-3911-F19776	117414aa-a9d8-4041-ae93-d60a07ad24f3	Additional New Tumor Event						Alive	761	NA	WITH TUMOR	YES695NONOYES	27	12	2011	TCGA-AF-3911
+follow_up_v1.0	TCGA-AF-3911-F39018	7E2DAE1D-5040-4D17-B55D-9F67D65FF61C	Scheduled Follow-up Submission	NO	YES	YES	Complete Remission/Response	Progressive Disease	Alive	1148	NA	WITH TUMOR	YES1020NONONO	11	1	2013	TCGA-AF-3911
+follow_up_v1.0	TCGA-AG-3581-F37957	A3B4E567-D491-41A7-ACAD-05643786269E	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	215	NA	TUMOR FREE	NO	6	12	2012	TCGA-AG-3581
+follow_up_v1.0	TCGA-AG-3885-F38014	BCAC2361-83FB-4AD8-B897-24DEAB6DD42A	Scheduled Follow-up Submission	NO	YES	YES	Complete Remission/Response	Complete Remission/Response	Alive	546	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3885
+follow_up_v1.0	TCGA-AG-3906-F38024	19513288-4BAC-4556-986C-507799ACAD9F	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	608	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3906
+follow_up_v1.0	TCGA-AG-3725-F38008	2217DE25-DDB6-4010-ACF8-2A1D42F8449C	Scheduled Follow-up Submission	NO	NO	NO		Partial Remission/Response	Alive	0	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3725
+follow_up_v1.0	TCGA-AG-A01N-F38513	5D5D2321-AC02-49D8-90C1-DE6DA5B80533	Scheduled Follow-up Submission	NO	NO	YES	Partial Remission/Response	Partial Remission/Response	Alive	943	NA	WITH TUMOR	NO	16	12	2012	TCGA-AG-A01N
+follow_up_v1.0	TCGA-DC-6157-F14258	359a768b-2515-4207-93cf-ddcf6785d26d	Scheduled Follow-up Submission		NO	NO			Alive	850	NA	TUMOR FREE	NO	26	7	2011	TCGA-DC-6157
+follow_up_v1.0	TCGA-DC-6157-F21435	ea0ef720-c662-4555-bf4c-bf07955cab84	Scheduled Follow-up Submission		NO	NO			Alive	1095	NA	TUMOR FREE	NO	13	2	2012	TCGA-DC-6157
+follow_up_v1.0	TCGA-DC-6157-F44763	AC62B632-9414-49DC-9008-D51B00393253	Scheduled Follow-up Submission	NO	NO	NO			Alive	1581	NA	TUMOR FREE	NO	26	6	2013	TCGA-DC-6157
+follow_up_v1.0	TCGA-AG-3901-F38022	49E1ECE9-A495-4072-B759-530DA98392DC	Scheduled Follow-up Submission	NO	NO	NO			Alive	761	NA			20	8	2015	TCGA-AG-3901
+follow_up_v1.0	TCGA-DC-6158-F14262	fe0149cd-4f9b-42aa-97a9-5abfde320d0b	Scheduled Follow-up Submission		NO	NO			Alive	216	NA	TUMOR FREE	NO	26	7	2011	TCGA-DC-6158
+follow_up_v1.0	TCGA-DC-6158-F21434	c88fb7e8-0aaf-4565-a973-a4103dcc9c79	Scheduled Follow-up Submission		NO	NO			Dead	NA	334	TUMOR FREE	NO	13	2	2012	TCGA-DC-6158
+follow_up_v1.0	TCGA-DC-6683-F15652	129f3071-ccf1-429c-a6f9-fb410ce1cd32	Scheduled Follow-up Submission		NO	YES			Alive	153	NA	TUMOR FREE	NO	NA	8	2011	TCGA-DC-6683
+follow_up_v1.0	TCGA-DC-6683-F30877	7389f972-ac7f-48a5-9216-3e559772ec96	Scheduled Follow-up Submission		NO	YES			Alive	306	NA	TUMOR FREE	NO	18	4	2012	TCGA-DC-6683
+follow_up_v1.0	TCGA-DC-6683-F44770	612F090F-CF93-4239-B18D-1FDE3FD329D8	Scheduled Follow-up Submission	NO	NO	YES			Alive	762	NA	TUMOR FREE	NO	26	6	2013	TCGA-DC-6683
+follow_up_v1.0	TCGA-EI-6512-F28634	803086c2-dd12-4f44-a330-d862b01edd4c	Scheduled Follow-up Submission		NO	YES			Alive	538	NA	TUMOR FREE	NO	30	1	2012	TCGA-EI-6512
+follow_up_v1.0	TCGA-AG-3909-F38302	F4B63998-15DD-4D28-8F92-0A49CFD46C76	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	608	NA	TUMOR FREE	NO	12	12	2012	TCGA-AG-3909
+follow_up_v1.0	TCGA-CI-6619-F69600	9D955ED0-3230-4E13-A370-2F4C06B5B2D9	Scheduled Follow-up Submission	YES						NA	NA			14	1	2015	TCGA-CI-6619
+follow_up_v1.0	TCGA-AG-3890-F38016	5D2BAB20-E659-4551-BAA2-CA11D0084633	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	518	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3890
+follow_up_v1.0	TCGA-EF-5831-F69009	10064861-41E4-4F83-90AE-ABE08AF5958B	Scheduled Follow-up Submission	YES	NO	NO			Alive	127	NA		NO	24	12	2014	TCGA-EF-5831
+follow_up_v1.0	TCGA-AG-A00C-F38313	B2E6175A-488F-4340-8048-4EF3DC25477D	Scheduled Follow-up Submission	NO	YES	YES	Complete Remission/Response	Complete Remission/Response	Alive	183	NA	TUMOR FREE	NO	12	12	2012	TCGA-AG-A00C
+follow_up_v1.0	TCGA-DY-A1DG-F19044	FF271A21-AF76-4913-9379-E64D89FC2DE0	Scheduled Follow-up Submission						Dead	NA	1566		YES592NO	2	12	2011	TCGA-DY-A1DG
+follow_up_v1.0	TCGA-AG-3611-F38004	24C1EEB8-9025-45F0-B7DC-61DC856F24A6	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	424	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3611
+follow_up_v1.0	TCGA-BM-6198-F13216	a02c3a99-0e40-4502-9e84-7146dbd94644			YES	YES			Alive	310	NA	TUMOR FREE	NO	21	6	2011	TCGA-BM-6198
+follow_up_v1.0	TCGA-BM-6198-F34043	125975C5-0D45-4255-8A2B-D2B4A609AA24	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	646	NA	TUMOR FREE	NO	26	7	2012	TCGA-BM-6198
+follow_up_v1.0	TCGA-G5-6572-F15855	d8728ad2-17ed-4ac4-b49d-7c6aad3c4bf3	Scheduled Follow-up Submission		NO	NO			Dead	NA	1432	TUMOR FREE	NO	2	9	2011	TCGA-G5-6572
+follow_up_v1.0	TCGA-AG-A00Y-F38317	9AB30C5D-E8CA-452C-B427-B88A9C1BF474	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	700	NA	TUMOR FREE	YES123NO	12	12	2012	TCGA-AG-A00Y
+follow_up_v1.0	TCGA-AG-3592-F37964	4F10CE94-C30D-4351-9251-83994FCD1D5D	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	1035	NA	TUMOR FREE	NO	6	12	2012	TCGA-AG-3592
+follow_up_v1.0	TCGA-F5-6811-F55510	C955DC30-EE36-47C5-B2B9-FE173D6B4105	Scheduled Follow-up Submission	YES	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	979	NA	TUMOR FREE	NO	8	1	2014	TCGA-F5-6811
+follow_up_v1.0	TCGA-AG-4008-F38314	8D76876D-3055-4BCB-B936-84AD2692A892	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	518	NA	TUMOR FREE	NO	12	12	2012	TCGA-AG-4008
+follow_up_v1.0	TCGA-AG-3599-F37992	6576F8BC-A53A-45B0-A285-E2C6B99040F4	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	366	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3599
+follow_up_v1.0	TCGA-F5-6814-F35048	779F082A-7176-4406-8C98-BD5DB0033D21	Scheduled Follow-up Submission	NO	NO	NO			Alive	564	NA	TUMOR FREE	NO	14	9	2012	TCGA-F5-6814
+follow_up_v1.0	TCGA-F5-6814-F65816	8CFF640D-DC67-4DDA-908F-023958D4358C	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	1131	NA	TUMOR FREE	NO	30	9	2014	TCGA-F5-6814
+follow_up_v1.0	TCGA-AH-6549-F43206	5BB1A23A-31FC-4468-B638-937E583E37E9	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	532	NA	TUMOR FREE	NO	15	5	2013	TCGA-AH-6549
+follow_up_v1.0	TCGA-CL-4957-F10093	6035c913-cd17-4dbb-a96a-7344cabf4d3f			NO	YES			Alive	NA	NA		NO	7	4	2011	TCGA-CL-4957
+follow_up_v1.0	TCGA-CL-4957-F68869	BB9D988B-9616-42C9-97AC-77BAF4223A9E	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response		Dead	NA	NA		NO	22	12	2014	TCGA-CL-4957
+follow_up_v1.0	TCGA-DC-6155-F14246	0f656363-f199-4bec-961d-8749f3342458	Scheduled Follow-up Submission		NO	YES			Alive	225	NA	TUMOR FREE	NO	26	7	2011	TCGA-DC-6155
+follow_up_v1.0	TCGA-DC-6155-F21438	0782a1e8-9553-4100-bf08-26a519b83272	Scheduled Follow-up Submission		NO	YES			Alive	425	NA	TUMOR FREE	NO	13	2	2012	TCGA-DC-6155
+follow_up_v1.0	TCGA-AG-3593-F37965	4E44995A-B8E7-4642-93AF-4B02C6E1876E	Scheduled Follow-up Submission	NO	YES	YES	Complete Remission/Response	Complete Remission/Response	Alive	1035	NA	TUMOR FREE	NO	6	12	2012	TCGA-AG-3593
+follow_up_v1.0	TCGA-F5-6864-F33873	12027E4A-E5E6-4DEC-8470-5B1CEC99A5A1	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	379	NA	TUMOR FREE	NO	23	7	2012	TCGA-F5-6864
+follow_up_v1.0	TCGA-F5-6864-F63126	AA29FC62-BE82-4DD6-8C0A-13EE5B35EB9D	Scheduled Follow-up Submission	YES						NA	NA			30	9	2014	TCGA-F5-6864
+follow_up_v1.0	TCGA-AH-6544-F58961	A7CC21F2-5D55-42F0-8C9E-55E9BD5B1B48	Scheduled Follow-up Submission	NO	NO	YES	Stable Disease	Stable Disease	Alive	1173	NA	WITH TUMOR	NO	29	4	2014	TCGA-AH-6544
+follow_up_v1.0	TCGA-DC-4745-F12832	7fa7a007-05f3-49e2-b899-eded752702d1			NO	YES			Alive	334	NA	TUMOR FREE	NO	9	6	2011	TCGA-DC-4745
+follow_up_v1.0	TCGA-DC-4745-F33823	F7B5E69F-CC72-493B-B369-945E761D0BD0	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	639	NA	TUMOR FREE	NO	19	7	2012	TCGA-DC-4745
+follow_up_v1.0	TCGA-F5-6861-F35080	D07B8AE6-9626-434B-BF8B-9ECEA00202FB	Scheduled Follow-up Submission	NO	NO	NO			Alive	449	NA	TUMOR FREE	NO	14	9	2012	TCGA-F5-6861
+follow_up_v1.0	TCGA-F5-6861-F59744	26091CBA-9898-45A7-B585-33DDE431C3BA	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	1160	NA	TUMOR FREE	NO	20	5	2014	TCGA-F5-6861
+follow_up_v1.0	TCGA-AH-6897-F45570	A1D2E669-7AF0-442D-92CB-4040F8619C46	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	804	NA	TUMOR FREE	NO	17	7	2013	TCGA-AH-6897
+follow_up_v1.0	TCGA-AG-3574-F37944	19DCF384-411F-4CA9-B8B8-E2D42800C04A	Scheduled Follow-up Submission	NO	NO	NO			Dead	NA	91			6	12	2012	TCGA-AG-3574
+follow_up_v1.0	TCGA-CI-6624-F69599	62F4B30E-B9F2-43DD-A3B0-2706A54C4A74	Scheduled Follow-up Submission	NO					Alive	1466	NA			14	1	2015	TCGA-CI-6624
+follow_up_v1.0	TCGA-AG-3898-F38021	5F29FB6E-D451-492A-A14A-D14512960128	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	1461	NA	WITH TUMOR	NO	8	12	2012	TCGA-AG-3898
+follow_up_v1.0	TCGA-EI-6885-F29906	9c177069-a46e-4a81-b825-1197281fba02	Scheduled Follow-up Submission		NO	YES			Alive	415	NA	WITH TUMOR	YES295Locoregional DiseaseYESNONO	30	3	2012	TCGA-EI-6885
+follow_up_v1.0	TCGA-DY-A1DD-F19086	58653763-6128-40AA-BCF5-01E1D8EF1CC1	Scheduled Follow-up Submission						Dead	1741	1741		NO	2	12	2011	TCGA-DY-A1DD
+follow_up_v1.0	TCGA-AG-3881-F38012	CB5CC182-6E3F-4A74-A3A6-AFC8DAF02855	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	579	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3881
+follow_up_v1.0	TCGA-AF-3914-F10221	2e4c493b-8ab4-4702-9df5-76ab606c57f8			YES	YES			Alive	390	NA	TUMOR FREE	NO	3	5	2011	TCGA-AF-3914
+follow_up_v1.0	TCGA-AF-3914-F41446	E90AF3AA-E606-4766-8F4E-8E25E398E626	Additional New Tumor Event	NO	YES	YES	Complete Remission/Response	Progressive Disease	Alive	1146	NA	WITH TUMOR	YES846Locoregional DiseaseYES869NOYES	19	3	2013	TCGA-AF-3914
+follow_up_v1.0	TCGA-AF-3914-F41483	E26202AA-E4B0-4EE7-A8CA-4ED7109D9DA2	Additional New Tumor Event	NO	YES	YES	Complete Remission/Response	Progressive Disease	Alive	1146	NA	WITH TUMOR	YES846NONOYES	19	3	2013	TCGA-AF-3914
+follow_up_v1.0	TCGA-EI-6917-F29856	4991ad3c-b4a2-43c4-ba38-56e1762b511d	Scheduled Follow-up Submission		NO	YES			Alive	531	NA	TUMOR FREE	NO	30	3	2012	TCGA-EI-6917
+follow_up_v1.0	TCGA-AG-A032-F38516	BDFAE041-B1B1-4165-9E13-7DECD1F78D56	Scheduled Follow-up Submission	NO	YES	YES	Partial Remission/Response	Partial Remission/Response	Alive	1157	NA	WITH TUMOR	YES792NO	16	12	2012	TCGA-AG-A032
+follow_up_v1.0	TCGA-AH-6644-F42780	05D8E4BD-4800-4F9F-8B8E-3A8692F6FD26	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	838	NA	TUMOR FREE	NO	30	4	2013	TCGA-AH-6644
+follow_up_v1.0	TCGA-AG-3575-F37950	C607FFA9-F026-48E8-B561-5437A501D11E	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	365	NA	TUMOR FREE	NO	6	12	2012	TCGA-AG-3575
+follow_up_v1.0	TCGA-AG-3612-F38007	BF9872B6-16F1-4EDD-8D92-607EB0C962EC	Scheduled Follow-up Submission	YES	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	608	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3612
+follow_up_v1.0	TCGA-AG-3591-F37962	517F641F-615B-49DF-9E92-D15E5A102F03	Scheduled Follow-up Submission	NO	YES	YES	Complete Remission/Response	Complete Remission/Response	Alive	1035	NA	TUMOR FREE	NO	6	12	2012	TCGA-AG-3591
+follow_up_v1.0	TCGA-EI-7002-F29903	1189c8c7-3bbd-49d3-9ef1-3c85e6a88838	Scheduled Follow-up Submission		NO	YES			Alive	364	NA	TUMOR FREE	NO	30	3	2012	TCGA-EI-7002
+follow_up_v1.0	TCGA-AF-A56N-F51140	0A37BF85-A860-4A9A-A6C8-A44E2786799F	Scheduled Follow-up Submission	NO	YES	YES	Complete Remission/Response	Complete Remission/Response	Alive	360	NA	TUMOR FREE	NO	8	11	2013	TCGA-AF-A56N
+follow_up_v1.0	TCGA-AF-2691-F2590	ab8576f5-091c-4624-a05c-fe23bb47d532			NO	NO			Alive	323	NA	TUMOR FREE	NO	28	10	2010	TCGA-AF-2691
+follow_up_v1.0	TCGA-AF-2691-F41268	7020FFED-888A-4FB5-AF5E-D23B31E38E6A	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	1309	NA	TUMOR FREE	NO	14	3	2013	TCGA-AF-2691
+follow_up_v1.0	TCGA-AH-6643-F57833	E55FEF42-0380-4C61-B1DE-B0916442927F	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Progressive Disease	Dead	NA	1314	WITH TUMOR	YES1026NONONO	27	3	2014	TCGA-AH-6643
+follow_up_v1.0	TCGA-F5-6465-F39568	386247D2-707A-4CAF-97BB-8B87CADF2848	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	1141	NA	TUMOR FREE	NO	25	1	2013	TCGA-F5-6465
+follow_up_v1.0	TCGA-F5-6465-F30852	EDA9775A-A692-425B-AC8B-B3B937ABF832	Scheduled Follow-up Submission		NO	NO			Alive	715	NA	TUMOR FREE	NO	24	1	2014	TCGA-F5-6465
+follow_up_v1.0	TCGA-F5-6465-F70150	84A0CBB0-D302-4860-ADA1-B257F0BECEF2	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	1506	NA	TUMOR FREE	NO	28	1	2015	TCGA-F5-6465
+follow_up_v1.0	TCGA-CI-6623-F69598	20B550ED-D0CF-403D-BC5D-AEB7B98AAD72	Scheduled Follow-up Submission	NO					Alive	1443	NA			14	1	2015	TCGA-CI-6623
+follow_up_v1.0	TCGA-AG-3600-F37993	962BD6CB-56DF-4352-B79A-FC742A8C6AC0	Scheduled Follow-up Submission	NO	YES	YES	Complete Remission/Response	Complete Remission/Response	Alive	184	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3600
+follow_up_v1.0	TCGA-G5-6235-F21952	a59aa52d-4943-434b-b870-3dd2e3e46cd4	Scheduled Follow-up Submission		NO	YES			Alive	1696	NA	TUMOR FREE	YES1042NOYESNO	7	2	2012	TCGA-G5-6235
+follow_up_v1.0	TCGA-EF-5830-F69008	68AE9B17-D82E-4FC6-8CFA-D8798ADEE747	Scheduled Follow-up Submission	YES	NO	NO			Alive	106	NA		NO	24	12	2014	TCGA-EF-5830
+follow_up_v1.0	TCGA-AF-6136-F31524	007f8ef2-68fb-4272-b6f6-2c58ca7efbac	Scheduled Follow-up Submission		YES	YES			Alive	468	NA	WITH TUMOR	YES199NONOYES	4	5	2012	TCGA-AF-6136
+follow_up_v1.0	TCGA-AF-6136-F40235	A13C75DA-41ED-4FB4-A7E2-EFA73D2C25F5	Scheduled Follow-up Submission	NO	YES	YES	Progressive Disease	Progressive Disease	Alive	741	NA	WITH TUMOR	YES609NONOYES	14	2	2013	TCGA-AF-6136
+follow_up_v1.0	TCGA-CI-6620-F69554	0513D499-31F9-4FC8-BFA0-28D6038FA2DC	Scheduled Follow-up Submission	NO	NO	YES	Progressive Disease	Progressive Disease	Alive	1009	NA	WITH TUMOR	YES90NONOYES	13	1	2015	TCGA-CI-6620
+follow_up_v1.0	TCGA-AG-A036-F38517	056C033F-17DB-419C-AC3A-3A1DB7F3971A	Scheduled Follow-up Submission	NO	YES	YES	Complete Remission/Response	Complete Remission/Response	Alive	3562	NA	TUMOR FREE	NO	16	12	2012	TCGA-AG-A036
+follow_up_v1.0	TCGA-CL-5918-F39671	1F90F52C-DD81-4DD2-8072-19D77606209D	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	0	NA	TUMOR FREE	NO	29	1	2013	TCGA-CL-5918
+follow_up_v1.0	TCGA-AG-3594-F37967	D79BC200-C885-4E23-BFA5-839BD9F3CB14	Scheduled Follow-up Submission	NO	NO	NO			Dead	NA	61			6	12	2012	TCGA-AG-3594
+follow_up_v1.0	TCGA-EI-6513-F28633	DA6A857E-765B-4124-B509-E58E9CC1F4FA	Scheduled Follow-up Submission		NO	NO			Alive	497	NA	TUMOR FREE	NO	27	2	2012	TCGA-EI-6513
+follow_up_v1.0	TCGA-AG-3580-F37955	A616BC22-19E3-4565-A5F9-DB08889B9D83	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	244	NA	TUMOR FREE	NO	6	12	2012	TCGA-AG-3580
+follow_up_v1.0	TCGA-G5-6641-F21862	86156171-7653-4f55-922b-6f7242b3bf5f	Scheduled Follow-up Submission		NO	YES			Alive	804	NA	TUMOR FREE	NO	7	2	2012	TCGA-G5-6641
+follow_up_v1.0	TCGA-AG-A011-F38509	1FB047EF-E293-40B1-BA39-EDB3780DCBA0	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	1126	NA	TUMOR FREE	NO	16	12	2012	TCGA-AG-A011
+follow_up_v1.0	TCGA-DY-A1H8-F19088	3B7C3CF1-2960-4E6F-B34C-DCC36970CBF5	Scheduled Follow-up Submission						Dead	992	992		NO	2	12	2011	TCGA-DY-A1H8
+follow_up_v1.0	TCGA-DC-5337-F11065	541a1401-c6ec-4c84-b5db-9db899663e57			NO	NO			Alive	304	NA		NO	3	5	2011	TCGA-DC-5337
+follow_up_v1.0	TCGA-DC-5337-F20427	07fcffc8-aaff-44af-9e9e-b11080d91515	Scheduled Follow-up Submission		NO	NO			Alive	457	NA	TUMOR FREE	NO	NA	1	2012	TCGA-DC-5337
+follow_up_v1.0	TCGA-DC-5337-F37186	CB413DCF-CEFD-4662-992F-E2EE74C49E46	Scheduled Follow-up Submission	NO	NO	NO			Alive	792	NA	TUMOR FREE	NO	29	11	2012	TCGA-DC-5337
+follow_up_v1.0	TCGA-CI-6621-F69555	953D756D-AFF0-4FBE-BF41-2AD8F944E27B	Scheduled Follow-up Submission	NO		YES			Alive	419	NA			13	1	2015	TCGA-CI-6621
+follow_up_v1.0	TCGA-AG-A00H-F38315	7CBEB7C0-1EC1-4303-BE70-7C210D667199	Scheduled Follow-up Submission	NO	YES	YES	Progressive Disease	Progressive Disease	Alive	790	NA	WITH TUMOR	YES790NOYESYES	12	12	2012	TCGA-AG-A00H
+follow_up_v1.0	TCGA-AF-3400-F2622	1813c9fe-91a4-4dcb-b524-75a8fe9f84f6			YES	YES			Alive	387	NA	TUMOR FREE	NO	1	11	2010	TCGA-AF-3400
+follow_up_v1.0	TCGA-AF-3400-F38603	B0E9C198-7E07-4627-9CD3-1E1DDF9F2EAD	Scheduled Follow-up Submission	NO				Complete Remission/Response	Alive	1049	NA	TUMOR FREE	NO	18	12	2012	TCGA-AF-3400
+follow_up_v1.0	TCGA-EI-6510-F28933	deaacf40-9e9d-4232-bd5d-0ff4ff7bc80d	Scheduled Follow-up Submission		NO	NO			Alive	556	NA	TUMOR FREE	NO	2	3	2012	TCGA-EI-6510
+follow_up_v1.0	TCGA-AF-2693-F13591	f7db3277-60f7-40fe-adb7-15a4068bc2b8	Scheduled Follow-up Submission		NO	NO			Alive	581	NA	TUMOR FREE	NO	6	7	2011	TCGA-AF-2693
+follow_up_v1.0	TCGA-AF-2693-F38391	20699C1C-39C6-44B3-ADBA-C5E93E7B1B10	Scheduled Follow-up Submission	NO					Alive	1155	NA	TUMOR FREE	NO	13	12	2012	TCGA-AF-2693
+follow_up_v1.0	TCGA-AG-3893-F38019	2F3D7FD0-D5D2-4D85-8DB3-626B668281D1	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	1065	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3893
+follow_up_v1.0	TCGA-AH-6903-F45564	F7DEF277-33CB-4D2A-8EBC-A4BD9699894B	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	592	NA	TUMOR FREE	NO	17	7	2013	TCGA-AH-6903
+follow_up_v1.0	TCGA-AG-3583-F37959	F861BB3F-7736-4CDE-B4C6-00496512B52A	Scheduled Follow-up Submission	NO	NO	NO			Dead	NA	610			6	12	2012	TCGA-AG-3583
+follow_up_v1.0	TCGA-AF-5654-F12868	f3561c4f-56df-488c-80fc-64cdd590977e			NO	NO			Alive	257	NA	TUMOR FREE	NO	10	6	2011	TCGA-AF-5654
+follow_up_v1.0	TCGA-AF-5654-F32800	3B0DEBF6-962E-4F3A-91EE-5B2F71D13608							Dead	NA	512	TUMOR FREE	NO	12	6	2012	TCGA-AF-5654
+follow_up_v1.0	TCGA-F5-6702-F46648	96B57819-168C-4C4E-A5BB-66664450A232	Scheduled Follow-up Submission	NO	NO	NO	Progressive Disease	Progressive Disease	Dead	NA	869	WITH TUMOR	YES368NONOYES	13	8	2013	TCGA-F5-6702
+follow_up_v1.0	TCGA-F5-6702-F31161	DE208906-8BA5-4980-BD0B-7EFF18DBA78A	Scheduled Follow-up Submission		NO	NO			Alive	452	NA	WITH TUMOR	YES368NONOYES	6	8	2013	TCGA-F5-6702
+follow_up_v1.0	TCGA-F5-6812-F35402	1B6F4C98-4EE1-43C8-99F8-C34B07598DE1	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	378	NA	TUMOR FREE	NO	26	9	2012	TCGA-F5-6812
+follow_up_v1.0	TCGA-F5-6812-F41123	6AE9B448-631F-489D-A13C-2DB49A5E1107	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	742	NA	TUMOR FREE	NO	12	3	2013	TCGA-F5-6812
+follow_up_v1.0	TCGA-F5-6812-F62653	222B6E6D-A861-4EF8-A14A-04D1383A419C	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	1110	NA	TUMOR FREE	NO	23	7	2014	TCGA-F5-6812
+follow_up_v1.0	TCGA-DC-5869-F14251	77dda678-f40a-4512-8e0e-a1ce30b3bfc9	Scheduled Follow-up Submission		NO	NO			Alive	153	NA	TUMOR FREE	NO	26	7	2011	TCGA-DC-5869
+follow_up_v1.0	TCGA-DC-5869-F20518	bafb8fb8-690f-46d8-9155-7527fd6c33f3	Scheduled Follow-up Submission		NO	NO			Alive	395	NA	TUMOR FREE	NO	16	1	2012	TCGA-DC-5869
+follow_up_v1.0	TCGA-DC-5869-F44744	B69695AC-9228-44DB-80CB-3DB66991DE1B	Scheduled Follow-up Submission	NO	NO	NO			Alive	943	NA	TUMOR FREE	NO	26	6	2013	TCGA-DC-5869
+follow_up_v1.0	TCGA-DT-5265-F20335	dbb7e402-4f8a-4699-9784-7ba6ea15c8fa	Scheduled Follow-up Submission		YES	NO			Alive	161	NA		NO	9	1	2012	TCGA-DT-5265
+follow_up_v1.0	TCGA-DT-5265-F71902	FCD1BF2E-EC38-4BD0-9B8A-B9500AC8BDEF	Scheduled Follow-up Submission	NO	YES	NO	Complete Remission/Response	Complete Remission/Response	Alive	384	NA	TUMOR FREE	NO	31	3	2015	TCGA-DT-5265
+follow_up_v1.0	TCGA-AG-3726-F38009	870C0B80-2D08-465E-BE2B-B7C27FD27218	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	243	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3726
+follow_up_v1.0	TCGA-EI-6881-F29849	f8458cea-739e-40d1-a783-c5b08fe1e40d	Scheduled Follow-up Submission		NO	YES			Alive	499	NA	TUMOR FREE	NO	30	3	2012	TCGA-EI-6881
+follow_up_v1.0	TCGA-AG-3608-F37999	A5563A17-C406-4C7F-A3B4-06B121205E6F	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	485	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3608
+follow_up_v1.0	TCGA-CI-6622-F69592	2C2E61F1-9F41-4D75-93C7-45E441A38817	Scheduled Follow-up Submission	NO	YES	YES			Alive	1362	NA			14	1	2015	TCGA-CI-6622
+follow_up_v1.0	TCGA-AF-2690-F7026	2490a4e1-7e5b-4858-bffe-e1302ccc2937			NO	NO			Alive	358	NA	TUMOR FREE	NO	3	2	2011	TCGA-AF-2690
+follow_up_v1.0	TCGA-AF-2690-F13123	3fd6b428-d0ee-43ee-aaf2-75ad6733a537							Dead	NA	524			20	6	2011	TCGA-AF-2690
+follow_up_v1.0	TCGA-AG-4022-F38320	C27D26C8-5EE2-4623-855A-329C85715A5B	Scheduled Follow-up Submission	NO	YES	YES	Complete Remission/Response	Complete Remission/Response	Alive	1400	NA	TUMOR FREE	NO	12	12	2012	TCGA-AG-4022
+follow_up_v1.0	TCGA-DC-6154-F17762	7da860da-477a-48aa-bc61-3b50676654c3	Scheduled Follow-up Submission		NO	YES			Alive	273	NA	TUMOR FREE	NO	25	10	2011	TCGA-DC-6154
+follow_up_v1.0	TCGA-DC-6154-F21437	5c00e450-c8e6-46a0-b0b7-b468f96693dd	Scheduled Follow-up Submission		NO	YES			Alive	365	NA	TUMOR FREE	NO	13	2	2012	TCGA-DC-6154
+follow_up_v1.0	TCGA-AG-3892-F38018	C50631C8-CD29-4443-970B-3AB492922E7E	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	396	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3892
+follow_up_v1.0	TCGA-AF-A56K-F51084	49EF5BDD-8904-4FB6-ABA5-E17D5074611B	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	2635	NA	TUMOR FREE	NO	7	11	2013	TCGA-AF-A56K
+follow_up_v1.0	TCGA-DC-6682-F15649	b62802e1-65da-4682-913b-a28b0f2c7e33	Scheduled Follow-up Submission		NO	NO			Alive	122	NA	TUMOR FREE	NO	NA	8	2011	TCGA-DC-6682
+follow_up_v1.0	TCGA-DC-6682-F30873	e6b4da6e-5734-4424-89a7-ee9a84543bdf	Scheduled Follow-up Submission		NO	NO			Alive	397	NA	TUMOR FREE	NO	17	4	2012	TCGA-DC-6682
+follow_up_v1.0	TCGA-DC-6682-F44769	791588E2-F159-47E4-B4E2-7A65CD7BF924	Scheduled Follow-up Submission	NO	NO	NO			Alive	762	NA	TUMOR FREE	NO	26	6	2013	TCGA-DC-6682
+follow_up_v1.0	TCGA-AG-3582-F37958	A1610969-6DFF-40FE-815E-81B303261EE9	Scheduled Follow-up Submission	NO	NO	NO			Dead	NA	1096			6	12	2012	TCGA-AG-3582
+follow_up_v1.0	TCGA-F5-6571-F29833	2A3B4B12-541A-47F4-A361-7F76C73DF422	Scheduled Follow-up Submission		NO	NO			Alive	392	NA	TUMOR FREE	YES122MetastaticYES150LiverRXNOYES	29	3	2012	TCGA-F5-6571
+follow_up_v1.0	TCGA-F5-6571-F53522	B35975A1-4FAD-466A-88DD-3B8E83AE96FB	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	952	NA	TUMOR FREE	YES660NOLiverNOYES	12	12	2013	TCGA-F5-6571
+follow_up_v1.0	TCGA-F5-6571-F53534	A2043FB3-CF3D-4C8A-86F7-B8395DCA9B03	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Stable Disease	Alive	1288	NA	WITH TUMOR	YES1059NOLiverNOYES	12	12	2013	TCGA-F5-6571
+follow_up_v1.0	TCGA-EI-6514-F28630	50212526-646E-40D5-92DD-80EDF761190F	Scheduled Follow-up Submission		NO	YES			Alive	496	NA	TUMOR FREE	NO	27	2	2012	TCGA-EI-6514
+follow_up_v1.0	TCGA-AG-3902-F38023	6CE120F7-F5D0-406E-8039-7A055E83CBAE	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	974	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3902
+follow_up_v1.0	TCGA-AG-3587-F37961	C944AE17-F197-4B93-B985-B63FC6463C55	Scheduled Follow-up Submission	NO	YES	NO			Alive	1400	NA	TUMOR FREE	YES1216NO	6	12	2012	TCGA-AG-3587
+follow_up_v1.0	TCGA-EI-6882-F29848	35b07b0e-99b9-45a3-a2e1-b9b38802029b	Scheduled Follow-up Submission		NO	NO			Alive	262	NA	TUMOR FREE	NO	26	3	2012	TCGA-EI-6882
+follow_up_v1.0	TCGA-AG-A023-F38514	22A4EA99-88E0-4117-9F6A-46BEE8B92076	Scheduled Follow-up Submission	NO	NO	NO		Progressive Disease	Dead	NA	1581	WITH TUMOR	YES822NO	16	12	2012	TCGA-AG-A023
+follow_up_v1.0	TCGA-AF-6672-F19799	af51da2f-ab70-411f-a7f0-64cfb88801d4	Scheduled Follow-up Submission		YES	YES			Alive	316	NA		YES279MetastaticYES304LiverNONO	27	12	2011	TCGA-AF-6672
+follow_up_v1.0	TCGA-AF-6672-F40027	9CC906C8-5B65-4F33-80F9-41A23CAEF708	Scheduled Follow-up Submission	NO	YES	YES	Progressive Disease	Progressive Disease	Alive	748	NA	WITH TUMOR	YES461NONOYES	11	2	2013	TCGA-AF-6672
+follow_up_v1.0	TCGA-AG-3598-F37968	D179A4FD-195C-4D8B-A694-CAFA7C21BCBF	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	1522	NA	TUMOR FREE	NO	6	12	2012	TCGA-AG-3598
+follow_up_v1.0	TCGA-DY-A1DC-F19043	FD4A2C05-AD6E-44F9-8FCC-7F7A2021A946	Scheduled Follow-up Submission						Dead	NA	1258		YES630Locoregional DiseaseYES818YES	2	12	2011	TCGA-DY-A1DC
+follow_up_v1.0	TCGA-EI-6508-F28935	e969163b-56cb-49f1-a9a4-3a8b44fd676d	Scheduled Follow-up Submission		NO	YES			Alive	636	NA	TUMOR FREE	NO	1	3	2012	TCGA-EI-6508
+follow_up_v1.0	TCGA-AF-2689-F3299	67b84c68-c27f-4cca-9a78-97f170fe362a			NO	YES			Alive	546	NA	WITH TUMOR	YES301NONOYES	12	11	2010	TCGA-AF-2689
+follow_up_v1.0	TCGA-AF-2689-F34683	6062AC06-4371-495B-A7AB-B59EB997DEE2	Additional New Tumor Event	NO				Progressive Disease	Dead	NA	1201	WITH TUMOR	YES461NONOYES	28	8	2012	TCGA-AF-2689
+follow_up_v1.0	TCGA-AF-2689-F34721	30BF5D9D-16C0-4348-A146-D06C856FD8FB	Additional New Tumor Event	NO				Progressive Disease	Dead	NA	1201	WITH TUMOR	YES1134NONONO	30	8	2012	TCGA-AF-2689
+follow_up_v1.0	TCGA-AF-2689-F34761	836C3D65-5AD5-41BB-9BE8-5D3B9CF0024C	Additional New Tumor Event	NO				Progressive Disease	Dead	NA	1201	WITH TUMOR	YES1134NONONO	30	8	2012	TCGA-AF-2689
+follow_up_v1.0	TCGA-AG-A008-F38306	DC1D0381-ED7B-4C3C-9EED-323B032E6057	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	424	NA	TUMOR FREE	NO	12	12	2012	TCGA-AG-A008
+follow_up_v1.0	TCGA-EI-6511-F28930	E798707B-0F2C-4F9A-BA35-032DDF99D55D	Scheduled Follow-up Submission		YES	YES			Alive	482	NA	TUMOR FREE	NO	2	3	2012	TCGA-EI-6511
+follow_up_v1.0	TCGA-AF-2692-F10351	d6a1d481-8e01-4139-9d11-7f3b23f130c1			NO	NO			Alive	412	NA	WITH TUMOR	YES327MetastaticYES396OtherR0YESYES	10	11	2010	TCGA-AF-2692
+follow_up_v1.0	TCGA-AG-3891-F38017	55926AA9-64C6-41AA-9E9C-0A5B1893A549	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	548	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3891
+follow_up_v1.0	TCGA-AG-A015-F38511	929B4674-D970-476F-9968-D98282FC031B	Scheduled Follow-up Submission	NO	NO	NO		Complete Remission/Response	Alive	1096	NA	TUMOR FREE	YES518NO	16	12	2012	TCGA-AG-A015
+follow_up_v1.0	TCGA-AF-6655-F19775	5926098b-3927-4026-92ba-6ea25afdda4c	Scheduled Follow-up Submission		NO	NO			Alive	355	NA	TUMOR FREE	NO	23	12	2011	TCGA-AF-6655
+follow_up_v1.0	TCGA-AF-6655-F39414	B3B69DDC-12FE-4DCD-826A-C2E517F69848	Scheduled Follow-up Submission	NO	NO	NO	Complete Remission/Response	Complete Remission/Response	Alive	609	NA	TUMOR FREE	NO	22	1	2013	TCGA-AF-6655
+follow_up_v1.0	TCGA-AG-3894-F38020	2022E30D-185C-4BF5-8602-17AAFAED7CC6	Scheduled Follow-up Submission	NO	YES	YES	Complete Remission/Response	Complete Remission/Response	Alive	426	NA	TUMOR FREE	NO	8	12	2012	TCGA-AG-3894
+follow_up_v1.0	TCGA-AG-4005-F38310	F203AF61-1DA0-4FFD-9CCE-37CAF0C3A7AB	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	427	NA	TUMOR FREE	NO	12	12	2012	TCGA-AG-4005
+follow_up_v1.0	TCGA-AG-A016-F38512	2E9CA8A0-0B0B-4B40-88F8-AE3D2B4010FD	Scheduled Follow-up Submission	NO	NO	YES	Progressive Disease	Progressive Disease	Alive	276	NA	WITH TUMOR	NO	16	12	2012	TCGA-AG-A016
+follow_up_v1.0	TCGA-EI-6507-F28632	6611f712-ecbc-4158-b32a-3d1b7ee59bd3	Scheduled Follow-up Submission		NO	NO			Alive	607	NA	TUMOR FREE	NO	27	2	2012	TCGA-EI-6507
+follow_up_v1.0	TCGA-AF-2687-F7364	51a01fae-9805-48d0-bcb6-843afc405026			YES	YES			Alive	595	NA	TUMOR FREE	NO	8	2	2011	TCGA-AF-2687
+follow_up_v1.0	TCGA-AF-2687-F10487	dfbfbfb7-e06b-4970-8711-cc78885b37d8							Alive	734	NA	TUMOR FREE	NO	19	4	2011	TCGA-AF-2687
+follow_up_v1.0	TCGA-AF-2687-F40084	FD8BE15C-49BE-4B72-AAC4-1816B383712D	Scheduled Follow-up Submission	NO	YES	YES	Complete Remission/Response	Complete Remission/Response	Alive	1427	NA	TUMOR FREE	YES1267NONONO	13	2	2013	TCGA-AF-2687
+follow_up_v1.0	TCGA-DY-A1DE-F19046	EB9A942F-CF37-4E8D-98D9-791973F9D383	Scheduled Follow-up Submission						Alive	3932	NA		YES3316NO	5	12	2011	TCGA-DY-A1DE
+follow_up_v1.0	TCGA-AF-4110-F13614	e5cd0dc2-47f4-4c84-a6a7-49decdbd76e3	Scheduled Follow-up Submission		NO	YES			Alive	441	NA	TUMOR FREE	NO	7	7	2011	TCGA-AF-4110
+follow_up_v1.0	TCGA-AF-4110-F40320	CA7ADA59-E99E-4F3C-88C9-6E30E422FDBA	Scheduled Follow-up Submission	NO	NO	YES	Complete Remission/Response	Complete Remission/Response	Alive	912	NA	TUMOR FREE	NO	15	2	2013	TCGA-AF-4110
